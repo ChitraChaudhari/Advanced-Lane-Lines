@@ -21,9 +21,10 @@ Examples of the output from each stage of the pipeline are saved in the folder c
 
 Project video
 Here's a link to my project video result
-[](https://youtu.be/_JME_R6wmXE)
+https://youtu.be/_JME_R6wmXE
+
 
 Challenge video
 Here's a link to my challenge video result
-[](https://youtu.be/c69zAN7NcLY )
+https://youtu.be/c69zAN7NcLY 
 
